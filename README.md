@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I am Muhammad Adeel, a **Senior Frontend Engineer** based out of Berlin working at [Dizzbo GmbH](https://www.dizzbo.com). Having around 10 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Tiago Rato, a  Fullstack Web Developer based out of Lisbon To see my profile in detail, I recommend to look at my LinkedIn profile.
 
+
+![Codewars](https://github.r2v.ch/codewars?user=Rato13&stroke=%23BB432C)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5650328/adeel)
@@ -24,7 +26,6 @@ I am Muhammad Adeel, a **Senior Frontend Engineer** based out of Berlin working 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Codewars](https://github.r2v.ch/codewars?user=Rato13&stroke=%23BB432C)
 
 ## Next skills to learn
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
