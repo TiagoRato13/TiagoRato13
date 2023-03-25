@@ -39,4 +39,4 @@ I am Tiago Rato, a  Fullstack Web Developer based out of Lisbon To see my profil
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoRato13&hide=TeX&layout=compact&theme=prussian)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TiagoRato13.TiagoRato13)
