@@ -2,8 +2,6 @@
 
 I am Tiago Rato, a  Fullstack Web Developer based out of Lisbon To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-
-![Codewars](https://github.r2v.ch/codewars?user=Rato13&stroke=%23BB432C)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5650328/adeel)
@@ -31,6 +29,9 @@ I am Tiago Rato, a  Fullstack Web Developer based out of Lisbon To see my profil
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js)
 
+
+## Codewars status
+![Codewars](https://github.r2v.ch/codewars?user=Rato13&stroke=%23BB432C)
 
 ## Stats
 
