@@ -31,7 +31,7 @@ I am Tiago Rato, a Fullstack Web Developer based out of Lisbon. Former Chef and 
 
 ## Next skills to learn
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![reactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Codewars status
