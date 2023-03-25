@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I am Tiago Rato, a  Fullstack Web Developer based out of Lisbon To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Tiago Rato, a Fullstack Web Developer based out of Lisbon. Former Chef and dive instructor, now joining the IT world after finishing my bootcamp at Ironhack. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5650328/adeel)
 
 ## Skills
 
@@ -13,7 +11,6 @@ I am Tiago Rato, a  Fullstack Web Developer based out of Lisbon To see my profil
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,7 +25,7 @@ I am Tiago Rato, a  Fullstack Web Developer based out of Lisbon To see my profil
 ## Next skills to learn
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js)
-
+![redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 
 ## Codewars status
 ![Codewars](https://github.r2v.ch/codewars?user=Rato13&stroke=%23BB432C)
