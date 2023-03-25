@@ -4,6 +4,8 @@ I am Tiago Rato, a Fullstack Web Developer based out of Lisbon. Former Chef and 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
 
+
+
 ## Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
