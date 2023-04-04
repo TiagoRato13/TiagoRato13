@@ -40,7 +40,7 @@ I am Tiago Rato, a Fullstack Web Developer based out of Lisbon. Former Chef and 
 
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TiagoRato13&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-#![Github Stats](https://github-readme-stats.vercel.app/api?username=TiagoRato13&show_icons=true)
+/*![Github Stats](https://github-readme-stats.vercel.app/api?username=TiagoRato13&show_icons=true)*/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoRato13&hide=TeX&layout=compact&theme=prussian)
 
