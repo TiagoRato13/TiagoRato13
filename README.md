@@ -39,7 +39,6 @@ I am Tiago Rato, a Fullstack Web Developer based out of Lisbon. Former Chef and 
 ![Codewars](https://github.r2v.ch/codewars?user=Rato13&stroke=%23BB432C)
 
 ## Stats
-https://www.codewars.com/users/Rato13/badges/large
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TiagoRato13&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoRato13&hide=TeX&layout=compact&theme=prussian)
